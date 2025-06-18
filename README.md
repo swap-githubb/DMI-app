@@ -27,7 +27,7 @@ A modern, animated hero section for DMI (Design Made Intelligent) built with Rea
   - Text: White with gray variations
 - **Visual Effects**: Gradient text, animated backgrounds, and particle effects
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React** - Component-based UI library
 - **TailwindCSS** - Utility-first CSS framework
@@ -35,7 +35,7 @@ A modern, animated hero section for DMI (Design Made Intelligent) built with Rea
 - **PostCSS** - CSS post-processor
 - **Autoprefixer** - Vendor prefix automation
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
