@@ -106,4 +106,3 @@ The main component includes:
 - Background animations and particle effects
 
 
-Made with ❤️ by Swapnil Shiv
